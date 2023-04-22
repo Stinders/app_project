@@ -1,0 +1,18 @@
+body {
+  margin-top: 2%;
+  padding: 2%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  /* background-image: image("images/abstract-uv-ultraviolet-light-composition.jpg"); */
+  /* color:red; */
+  /* background-color:white; */
+  background-image: url('https://wallpapers.com/images/featured/4x8pk6a7ppc183jj.jpg');
+  background-size:cover;
+  text-align: center;
+  /* text-decoration-color: white; */
+  
+}
+
+h1{
+  color: aliceblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
